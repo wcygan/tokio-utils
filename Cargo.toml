@@ -4,10 +4,14 @@ version = "0.0.0"
 description = "Async Pool"
 authors = ["Will Cygan <wcygan.io@gmail.com>"]
 categories = ["asynchronous", "concurrency"]
-keywords = ["asynchronous", "utilities"]
+keywords = ["asynchronous", "concurrency", "utilities"]
 repository = "https://github.com/wcygan/tokio-utils"
 homepage = "https://github.com/wcygan/tokio-utils"
 edition = "2021"
 license = "MIT"
 
 [dependencies]
+tub = "0.3.6"
+async-throttle = "0.3.1"
+shutdown-async = "0.1.0"
+async-stdin = "0.3.1"

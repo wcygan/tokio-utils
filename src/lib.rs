@@ -2,7 +2,7 @@
 //!
 //! ## Resource Pooling
 //!
-//! * [`Pool`], a shared resource pool.
+//! * [`Pool`], a shared resource pool
 //!
 //! ## Rate Limiting
 //!

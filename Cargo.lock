@@ -13,9 +13,9 @@ dependencies = [
 
 [[package]]
 name = "async-throttle"
-version = "0.3.1"
+version = "0.3.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0ca7e05b57d0d8ce746acabb63b574fc37c936e3d38da68661d4883088589da1"
+checksum = "1c99532de164435a0b91279e715bff4fa0d164643b409a67761907ffc210ee8f"
 dependencies = [
  "backoff",
  "dashmap",
@@ -212,9 +212,9 @@ checksum = "d29ab0c6d3fc0ee92fe66e2d99f700eab17a8d57d1c1d3b748380fb20baa78cd"
 
 [[package]]
 name = "shutdown-async"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "91f4f55f8eb48f809b6cd3a5fee23bee7b752637c04100a0df802f782c709028"
+checksum = "e2799e69bde7e68bedd86c6d94bffa783219114f1f31435ddda61f4aeba348ff"
 dependencies = [
  "tokio",
 ]
@@ -238,7 +238,7 @@ dependencies = [
 
 [[package]]
 name = "tokio-utils"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "async-stdin",
  "async-throttle",
@@ -248,9 +248,9 @@ dependencies = [
 
 [[package]]
 name = "tub"
-version = "0.3.6"
+version = "0.3.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a3685b1617cf47196ba08e1c1c8c5b1e4cf5769ecc81d128785762256848af50"
+checksum = "6bca43faba247bc76eb1d6c1b8b561e4a1c5bdd427cc3d7a007faabea75c683a"
 dependencies = [
  "crossbeam-queue",
  "tokio",

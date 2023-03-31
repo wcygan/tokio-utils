@@ -26,5 +26,5 @@ Add this to your Cargo.toml:
 
 ```toml
 [dependencies]
-tokio-utils = "0.1.0"
+tokio-utils = "0.1.1"
 ```

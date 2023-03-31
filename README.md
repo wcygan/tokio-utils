@@ -5,7 +5,7 @@
 [<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-tokio--utils-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/tokio-utils)
 [<img alt="build status" src="https://img.shields.io/github/actions/workflow/status/wcygan/tokio-utils/check.yml?branch=main&style=for-the-badge" height="20">](https://github.com/wcygan/tokio-utils/actions?query=branch%3Amain)
 
-Tools for asynchronous programming in Tokio applications:
+Tools for asynchronous programming in [Tokio](https://tokio.rs/) applications:
 
 #### Resource Pooling
 - [Pool](https://docs.rs/tokio-utils/latest/tokio_utils/struct.Pool.html), a shared resource pool.
@@ -26,5 +26,5 @@ Add this to your Cargo.toml:
 
 ```toml
 [dependencies]
-tokio-utils = "0.1.1"
+tokio-utils = "0.1.2"
 ```

@@ -1,7 +1,7 @@
 [package]
 name = "tokio-utils"
 version = "0.1.0"
-description = "Async Pool"
+description = "Tools for asynchronous programming in Tokio applications"
 authors = ["Will Cygan <wcygan.io@gmail.com>"]
 categories = ["asynchronous", "concurrency"]
 keywords = ["asynchronous", "concurrency", "utilities"]
